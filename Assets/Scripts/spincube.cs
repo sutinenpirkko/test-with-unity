@@ -5,6 +5,7 @@ using UnityEngine;
 public class spincube : MonoBehaviour
 {
     public Vector3 RotateAmount;
+
     // Start is called before the first frame update
     void Start()
     {
